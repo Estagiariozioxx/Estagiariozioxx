@@ -1,7 +1,6 @@
-<div style="display:flex; align-items: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Estagiariozioxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estagiariozioxx&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Estagiariozioxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estagiariozioxx&layout=compact&langs_count=16&theme=dracula" alt="Top Languages" width="48%"/>
 </div>
 
 
