@@ -1,9 +1,10 @@
-<div>
-  <a href="https://beacons.ai/rafaballerini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Estagiariozioxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estagiariozioxx&layout=compact&langs_count=16&theme=dracula"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <a href="https://beacons.ai/rafaballerini" style="flex: 1;">
+    <img style="width: 100%; max-width: 48%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=Estagiariozioxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img style="width: 100%; max-width: 48%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estagiariozioxx&layout=compact&langs_count=16&theme=dracula"/>
   </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
