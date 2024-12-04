@@ -1,4 +1,4 @@
-<table align="center">
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Estagiariozioxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%">
@@ -8,6 +8,7 @@
     </td>
   </tr>
 </table>
+
 
 
 <div style="display: inline_block"><br>
