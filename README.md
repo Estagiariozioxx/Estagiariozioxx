@@ -1,9 +1,9 @@
 <table>
-  <tr>
-    <td>
+  <tr border="none">
+    <td padding="0">
       <img src="https://github-readme-stats.vercel.app/api?username=Estagiariozioxx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%">
     </td>
-    <td>
+    <td border="none">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estagiariozioxx&layout=compact&langs_count=16&theme=dracula" alt="Top Languages" width="100%">
     </td>
   </tr>
